@@ -1,0 +1,30 @@
+.container{
+  background-color:#C9B7AD;
+  padding: 10px;
+  width: 30%;
+  margin: 5px 10px;
+
+}
+.box{
+  display: flex;
+  margin: 30px 5px;
+  border: 5%;
+  padding: 2%;
+}
+img{
+  height: 400px;
+  width: 400px;
+  position: relative;
+  border-radius: 50%;
+}
+.blanca {
+  color: white; 
+  text-align: center;
+}
+p{
+  font-weight: normal;
+}
+.titulo{
+  font-weight: bold;
+  text-align: center;
+}
